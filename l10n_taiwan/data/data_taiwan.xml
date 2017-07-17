@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- © 2017 - Shanghai SITA Waste Treatment Services Company Limited.
+     License LGPL-3.0 or later (http://www.gnu.org/licenses/lgpl.html). -->
+
+<odoo>
+    <data noupdate="1">
+        <record id="tw_country_state_1" model="res.country.state">
+            <field name="name">基隆市</field>
+            <field name="code">1</field>
+            <field name="country_id" ref="base.tw"/>
+        </record>
+        <record id="tw_country_state_2" model="res.country.state">
+            <field name="name">臺北市</field>
+            <field name="code">2</field>
+            <field name="country_id" ref="base.tw"/>
+        </record>
+        <record id="tw_country_state_3" model="res.country.state">
+            <field name="name">新北市</field>
+            <field name="code">3</field>
+            <field name="country_id" ref="base.tw"/>
+        </record>
+        <record id="tw_country_state_4" model="res.country.state">
+            <field name="name">桃園市</field>
+            <field name="code">4</field>
+            <field name="country_id" ref="base.tw"/>
+        </record>
+        <record id="tw_country_state_5" model="res.country.state">
+            <field name="name">新竹市</field>
+            <field name="code">5</field>
+            <field name="country_id" ref="base.tw"/>
+        </record>
+        <record id="tw_country_state_6" model="res.country.state">
+            <field name="name">新竹縣</field>
+            <field name="code">6</field>
+            <field name="country_id" ref="base.tw"/>
+        </record>
+        <record id="tw_country_state_7" model="res.country.state">
+            <field name="name">苗栗縣</field>
+            <field name="code">7</field>
+            <field name="country_id" ref="base.tw"/>
+        </record>
+        <record id="tw_country_state_8" model="res.country.state">
+            <field name="name">臺中市</field>
+            <field name="code">8</field>
+            <field name="country_id" ref="base.tw"/>
+        </record>
+        <record id="tw_country_state_9" model="res.country.state">
+            <field name="name">彰化縣</field>
+            <field name="code">9</field>
+            <field name="country_id" ref="base.tw"/>
+        </record>
+        <record id="tw_country_state_10" model="res.country.state">
+            <field name="name">南投縣</field>
+            <field name="code">10</field>
+            <field name="country_id" ref="base.tw"/>
+        </record>
+        <record id="tw_country_state_11" model="res.country.state">
+            <field name="name">雲林縣</field>
+            <field name="code">11</field>
+            <field name="country_id" ref="base.tw"/>
+        </record>
+        <record id="tw_country_state_12" model="res.country.state">
+            <field name="name">嘉義市</field>
+            <field name="code">12</field>
+            <field name="country_id" ref="base.tw"/>
+        </record>
+        <record id="tw_country_state_13" model="res.country.state">
+            <field name="name">嘉義縣</field>
+            <field name="code">13</field>
+            <field name="country_id" ref="base.tw"/>
+        </record>
+        <record id="tw_country_state_14" model="res.country.state">
+            <field name="name">臺南市</field>
+            <field name="code">14</field>
+            <field name="country_id" ref="base.tw"/>
+        </record>
+        <record id="tw_country_state_15" model="res.country.state">
+            <field name="name">高雄市</field>
+            <field name="code">15</field>
+            <field name="country_id" ref="base.tw"/>
+        </record>
+        <record id="tw_country_state_16" model="res.country.state">
+            <field name="name">屏東縣</field>
+            <field name="code">16</field>
+            <field name="country_id" ref="base.tw"/>
+        </record>
+        <record id="tw_country_state_17" model="res.country.state">
+            <field name="name">臺東縣</field>
+            <field name="code">17</field>
+            <field name="country_id" ref="base.tw"/>
+        </record>
+        <record id="tw_country_state_18" model="res.country.state">
+            <field name="name">花蓮縣</field>
+            <field name="code">18</field>
+            <field name="country_id" ref="base.tw"/>
+        </record>
+        <record id="tw_country_state_19" model="res.country.state">
+            <field name="name">宜蘭縣</field>
+            <field name="code">19</field>
+            <field name="country_id" ref="base.tw"/>
+        </record>
+        <record id="tw_country_state_20" model="res.country.state">
+            <field name="name">澎湖縣</field>
+            <field name="code">20</field>
+            <field name="country_id" ref="base.tw"/>
+        </record>
+        <record id="tw_country_state_21" model="res.country.state">
+            <field name="name">金門縣</field>
+            <field name="code">21</field>
+            <field name="country_id" ref="base.tw"/>
+        </record>
+        <record id="tw_country_state_22" model="res.country.state">
+            <field name="name">連江縣</field>
+            <field name="code">22</field>
+            <field name="country_id" ref="base.tw"/>
+        </record>
+    </data>
+</odoo>
