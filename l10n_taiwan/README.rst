@@ -2,11 +2,17 @@
    :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
    :alt: License: AGPL-3
 
-===========
-l10n_taiwan
-===========
-This module will create new data based on localization Taiwan
+========================
+Taiwan localization Data
+========================
+This module adds standard localization data (states, etc.) for Taiwan Localization.
 
+Usage
+=====
+
+.. image:: https://odoo-community.org/website/image/ir.attachment/5784_f2813bd/datas
+   :alt: Try me on Runbot
+   :target: https://runbot.odoo-community.org/runbot/192/10.0
 
 Bug Tracker
 ===========
@@ -18,32 +24,22 @@ If you spotted it first, help us smashing it by providing a detailed and welcome
 Credits
 =======
 
-Images
-------
-
-* Elico Corp: `Icon <https://elico-corp.com/logo.png>`_.
-
 Contributors
 ------------
-
-* Yang XuDong <yang.xudong@elico-corp.com>
 * Eric Caudal <eric.caudal@elico-corp.com>
 * Victor Martin <victor.martin@elico-corp.com>
-
 
 Maintainer
 ----------
 
-.. image:: https://www.elico-corp.com/logo.png
-   :alt: Elico Corp
-   :target: https://www.elico-corp.com
+.. image:: https://odoo-community.org/logo.png
+   :alt: Odoo Community Association
+   :target: https://odoo-community.org
 
-This module is maintained by Elico Corporation.
+This module is maintained by the OCA.
 
-Elico Corporation offers consulting services to implement open source management
-software in SMEs, with a strong involvement in quality of service.
+OCA, or the Odoo Community Association, is a nonprofit organization whose
+mission is to support the collaborative development of Odoo features and
+promote its widespread use.
 
-Our headquarters are located in Shanghai and Singapore servicing customers from
-Greater China and Asia Pacific.
-
-Contact information: `Sales <contact@elico-corp.com>`__
+To contribute to this module, please visit https://odoo-community.org.
