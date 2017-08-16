@@ -7,7 +7,7 @@
     'name': 'l10n Taiwan',
     'version': '10.0.1.0.0',
     'summary': """This module adds state data for Taiwan Localization.""",
-    'author': 'Elico Corp',
+    'author': 'Elico Corp, Odoo Community Association (OCA)',
     'category': 'Localization',
     'website': 'https://www.elico-corp.com',
     'data': [
