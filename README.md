@@ -8,6 +8,13 @@
 write me
 
 [//]: # (addons)
+
+Available addons
+----------------
+addon | version | summary
+--- | --- | ---
+[l10n_taiwan](l10n_taiwan/) | 10.0.1.0.0 | This module adds state data for Taiwan Localization.
+
 [//]: # (end addons)
 
 Translation Status
